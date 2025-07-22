@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Phone",
+    "desc": "High-quality noise-cancelling headphones with Bluetooth connectivity.",
+    "price": 89.99,
+    "qty": 150,
+    "id" : 1,
+    "image": "./images/1.png"
+  },
+  {
+    "name": "TV",
+    "id" : 2,
+    "desc": "Latest smartphone with 128GB storage, 5G, and a 48MP camera.",
+    "price": 699.99,
+    "qty": 200,
+    "image": "./images/2.png"
+  },
+  {
+    "name": "Mouse",
+    "id" : 3,
+    "desc": "Ultra-lightweight laptop with 16GB RAM, 512GB SSD, and a 13-inch display.",
+    "price": 1299.99,
+    "qty": 50,
+    "image": "./images/3.png"
+  },
+  {
+    "name": "Laptop",
+    "id" : 4,
+    "desc": "Portable waterproof Bluetooth speaker with deep bass and 12 hours battery life.",
+    "price": 59.99,
+    "qty": 300,
+    "image": "./images/4.png"
+  },
+  {
+    "name": "Smartwatch",
+    "id" : 5,
+    "desc": "Fitness tracking smartwatch with heart-rate monitor and GPS functionality.",
+    "price": 199.99,
+    "qty": 120,
+    "image": "./images/5.png"
+  },
+    {
+    "name": "Scooty",
+    "id" : 6,
+    "desc": "Latest smartphone with 128GB storage, 5G, and a 48MP camera.",
+    "price": 699.99,
+    "qty": 200,
+    "image": "./images/6.png"
+  },
+  {
+    "name": "Water Bottle",
+    "id" : 7,
+    "desc": "Ultra-lightweight laptop with 16GB RAM, 512GB SSD, and a 13-inch display.",
+    "price": 1299.99,
+    "qty": 50,
+    "image": "./images/7.png"
+  },
+  {
+    "id" : 8,
+    "name": "Bluetooth",
+    "desc": "Portable waterproof Bluetooth speaker with deep bass and 12 hours battery life.",
+    "price": 59.99,
+    "qty": 300,
+    "image": "./images/8.png"
+  }
+]
